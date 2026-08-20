@@ -12,7 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** (CGPA: 8.1)
+🎓 **B.Tech, Electronics & Communication Engineering** at **IIIT Allahabad** 
 💼 **Software Engineer Intern (Security)** at **Microsoft** — worked on kernel-level telemetry and eBPF-based event tracking
 🧠 Deep interest in **System Design** — rate limiting, distributed consistency, and Low-Level Design (LLD) patterns
 ⚙️ Hands-on with **Redis, Docker, and distributed system building blocks** to build systems that scale
