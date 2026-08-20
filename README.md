@@ -8,11 +8,6 @@
 
 <h3 align="center">🚀 Software Engineer building secure, scalable systems from India 🇮🇳</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" />
-</div>
-
 ## 🎯 About Me:
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
@@ -38,24 +33,14 @@
 ## 🌐 Connect with me:
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="mailto:bhavygoyal011@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </div>
-
-> ⚠️ Replace the `#` placeholders above (and `YOUR_GITHUB_USERNAME` further up) with your actual LinkedIn, GitHub, Codeforces, and LeetCode profile links.
 
 ## 🛠️ Tech Stack:
 
@@ -101,26 +86,6 @@
 <img src="https://img.shields.io/badge/SYSTEM_DESIGN-8B0000?style=for-the-badge" />
 </p>
 
-## 📊 GitHub Analytics:
-
-<table>
-<tr>
-<td align="center"><img width="500" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dracula&border_color=61dafb&include_all_commits=true" /></td>
-<td align="center"><img width="375" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=dracula&border_color=61dafb" alt="top langs" /></td>
-<td align="center"><img width="500" src="http://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=dracula&border=61DAFB&fire=DDB80F" /></td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 🏆 GitHub Achievements:
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dracula&no-frame=false&no-bg=true&margin-w=4&row=1" width="100%"/>
-</div>
-
 ## 🎯 Competitive Programming & Awards
 
 - 🏅 **Codeforces Specialist** — Rating 1549
@@ -135,12 +100,6 @@
 
 - 🎪 **Effervescence Cultural Fest — Overall Coordinator** — Coordinated North India's 2nd largest cultural fest with 2000+ attendees, leading a team of 250 across operations, logistics, and execution
 - 🤝 **E-Cell IIIT Allahabad — Sponsorship Head** — Led sponsorship outreach and managed corporate partnerships, coordinating with stakeholders for funding and collaborations
-
-## 📈 Contribution Stats:
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="contributor stats"/>
-</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
